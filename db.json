@@ -1,7 +1,16 @@
 {
-  "users": {
-		  "id": 1,
-		  "email": "admin@javadev.pl",
-		  "password": "zaq1@WSX"
-  }
+	"users": [
+		{
+			"id": 1,
+			"email": "admin@javadev.pl",
+			"password": "zaq1@WSX"
+		},
+		{
+			"id": 2,
+			"firstName": "Tony",
+			"lastName": "Stark",
+			"email": "iron-man@marvel.pl",
+			"password": "zaq1@WSX"
+		}
+	 ]
 }
