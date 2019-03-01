@@ -1,14 +1,11 @@
 {
-	"users": [
-		{
-			"id": 1,
-			"firstName": null,
-			"lastName": null,
-			"email": "admin@javadev.pl",
-			"password": "zaq1@WSX",
-			"yearOfStudy": null,
-			"fieldOfStudy": null,
-			"indexNumber": null
-		}
-	]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
